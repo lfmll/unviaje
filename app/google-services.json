@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "908519027409",
+    "project_id": "atrip-29785",
+    "storage_bucket": "atrip-29785.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908519027409:android:9fa85df097347e60270bf0",
+        "android_client_info": {
+          "package_name": "com.lfmll.atrip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAlOCjy91GYSlHPTZaDnWTGjZWK3c6FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908519027409:android:9ab99c71f65a2ada270bf0",
+        "android_client_info": {
+          "package_name": "com.lfmll.unviaje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYAlOCjy91GYSlHPTZaDnWTGjZWK3c6FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
