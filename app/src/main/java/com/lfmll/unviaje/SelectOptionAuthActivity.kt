@@ -13,12 +13,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.lfmll.unviaje.ui.theme.UnViajeTheme
 
-class MainActivity : AppCompatActivity() {
+class SelectOptionAuthActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
-            setContentView(R.layout.activity_main)
+            setContentView(R.layout.activity_select_option_auth_activity)
         }
     }
 }
-

@@ -9,5 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="ambar">#FFC107</color>
     <color name="gris">#757575</color>
-
+    <color name="blue_light">#2196F3</color>
+    <color name="orange">#FF9800</color>
 </resources>

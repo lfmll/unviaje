@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">unViaje</string>
+    <string name="title_activity_select_option_auth">SelectOptionAuthActivity</string>
 </resources>
